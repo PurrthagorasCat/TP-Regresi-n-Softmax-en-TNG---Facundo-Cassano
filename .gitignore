@@ -1,0 +1,8 @@
+# Logs y archivos que se generan al ejecutar el notebook
+runs/
+mlruns/
+mlflow.db
+*.db
+.ipynb_checkpoints/
+__pycache__/
+.venv/
